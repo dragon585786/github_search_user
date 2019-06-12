@@ -1,0 +1,26 @@
+.img-div{
+    /* height: 400px; */
+    /* width: 400px; */
+    /* border-radius: 2rem; */
+    padding-top: 20px;
+  }
+
+.showdow-img{
+    box-shadow: 0px 5px 10px black;
+    width: 500px;
+    margin: 10px auto;
+    padding: 5px auto;
+    background-color: rgb(161, 243, 243)
+}
+.body-color{
+    background-color: aqua;
+}
+.search-box{
+    margin: 55px auto;
+}
+.search-inner{
+    margin: 5px auto;
+    width: 253px;
+    height: 38px;
+    border-radius: 12px;
+}
